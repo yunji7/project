@@ -1,0 +1,152 @@
+
+
+.yk_icon:hover{
+    background-color: #BBBBBB;
+    color: white;
+
+}
+
+.yk_tabs{
+  padding: 0.5rem;
+    max-width: none;
+}
+
+
+.yk_header{
+
+}
+
+.yk_imgs{
+    margin: 2px 0 2px 0;
+}
+
+
+.yk_icon{
+
+    /*border: 1px solid  honeydew;*/
+    /*width: 300px;*/
+    padding-left: 0;
+    padding-right: 0;
+
+    margin-top: 2px;
+    padding-top: 9px;
+
+    background-color: #eeeeee;
+    z-index: 3;
+    color: #777777;
+}
+
+.yk_icon > i{
+
+    font-size: 25px;
+}
+
+
+
+
+.yk_jj{
+    text-align: left;
+}
+
+
+.yk_red{
+    color: red;
+    /*border: 2px solid sandybrown;*/
+
+}
+.sile{
+    border: none;
+    font-size: 1rem;
+}
+
+.yk_ys{
+    background: #ccffcc;
+    color: #666633;
+}
+
+/*.icon_x:hover{*/
+
+/*}*/
+/*.icon_x{*/
+     /*color: red;;*/
+    /**/
+    /*border: 1px solid mediumvioletred;*/
+/*}*/
+
+
+.yk_width{
+    width: auto;
+   padding-left: 0;
+   padding-right: 0;
+}
+
+
+
+#allmap {
+    width: 100%;
+    height: 500px;
+}
+
+
+.phone_bottom li{
+    float: left;
+    list-style: none;
+    text-align: center;
+}
+
+.phone_bottom span{
+
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+
+.phone_bottom a{
+    text-decoration: none;
+}
+
+.yk_button{
+    padding: 10px 5px;
+    background: #e14d43;
+    box-shadow: 2px 5px 5px #e14d43;
+    color: white;
+}
+
+
+.city{
+    padding: 0;
+}
+
+.yk_cili{
+    background-color: #66CCFF;
+    border-radius:10px;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 20px;
+    height: 200px;
+    padding: 15px;
+}
+
+
+
+.yk_icon > i{
+
+    font-size: 35px;
+
+}
+
+
+.yk_jjs{
+
+    font-size: 10px;
+    /*border: 2px sandybrown solid;*/
+    text-align: center;
+}
+
+
+.divs > div{
+    height: 400px;
+}
+
